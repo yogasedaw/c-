@@ -1,2 +1,2 @@
-# c-
+# tugas kuliah
 program c++
